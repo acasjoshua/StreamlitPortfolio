@@ -1,6 +1,7 @@
 [theme]
-primaryColor = "#4F46E5"
-backgroundColor = "#FFFFFF"
-secondaryBackgroundColor = "#F3F4FB"
-textColor = "#1F2937"
-font = "sans serif"
+base = "dark"
+
+# Optional tweaks (uncomment to use):
+# primaryColor = "#4F46E5"            # tabs underline, checkboxes, toggles
+# backgroundColor = "#0E1117"         # main page
+# secondaryBackgroundColor = "#1A1D29" # sidebar and cards
